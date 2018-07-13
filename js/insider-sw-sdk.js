@@ -1,0 +1,1 @@
+﻿"function" === typeof importScripts && importScripts("https://api.sociaplus.com/sw.js");
